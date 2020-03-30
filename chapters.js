@@ -1,4 +1,4 @@
-const chapters = [
+[
   {
     id: "",
     title: "",
