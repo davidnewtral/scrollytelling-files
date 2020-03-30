@@ -15,4 +15,4 @@
     onChapterEnter: [],
     onChapterExit: []
   }
-];
+]
