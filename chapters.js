@@ -6,8 +6,8 @@ const chapters = [
     description: "",
     country: "Spain",
     location: {
-      center: [0.0, 0.0],
-      zoom: 0.0,
+      center: [13.41443, 45.95619],
+      zoom: 4.38,
       pitch: 0.0,
       bearing: 0.0,
       speed: 1
